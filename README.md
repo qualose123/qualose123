@@ -1,6 +1,5 @@
 ### Olá! Eu Sou o Raphael Johny 👋
 - 🌱 Estudando React,Typescript,Javascript,Html5 e Css3, com foco em front-end
-- 💬 Contate-me através do E-mail: jonhyzicaos@gmail.com || [+55](24)99836-6392(Whatsapp).
 - 😄 Pronouns: Ele/dele
 
 <div align="center">
